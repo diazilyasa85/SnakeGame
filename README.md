@@ -175,18 +175,3 @@ Diaz Ilyasa Azrurrafi Saiful (1806200154)
         //Exporting File
         fptr = fopen(filepath, "w"); //W to Write, R to Read
  ```
- 
- ### Create Bank Password
-- View
-![](Image/Screenshot_6.png)
-- Security Question
-![](Image/Screenshot_7.png)
-- File Encrypted
-![](Image/Screenshot_8.png)
-
-### Manage Bank Password
-- Prove File Authentication
-![](Image/Screenshot_9.png)
-- View
-You can Edit existing data , Add new Data, Change page view, Save changes to the file. 
-![](Image/Screenshot_10.png)
